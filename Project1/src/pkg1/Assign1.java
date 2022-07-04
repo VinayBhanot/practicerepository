@@ -3,6 +3,7 @@ package pkg1;
 public class Assign1 {
 	
 	public int sum(int a, int b, int c) 
+	
 	  {
 		int sumresponse = a+b+c;
 		//System.out.println("Sum Result " +sumresponse);
