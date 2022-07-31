@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SwapWithoutThirdVariable {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//TODO Auto-generated method stub
          int a, b;
          Scanner value = new Scanner(System.in);
          System.out.println("Enter two numbers");
