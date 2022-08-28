@@ -1,0 +1,9 @@
+Students data
+St1 Ajay, Rollno 001, 65%
+St2 Riya, Rollno 002, 79%
+St3 Paras, Rollno 003, 69%
+St4 Vijay,Rollno 004, 79%
+St5 Asish, Rollno 005, 89%
+St6 Manish, Rollno 006, 39%
+St7 Kavya, Rollno 007, 89%
+St8 Kashish, Rollno 008, 69%
